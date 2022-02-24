@@ -1,2 +1,5 @@
 module.exports = {
-  moduleNa
+  moduleNameMapper: {
+    "^.+.(svg|png|jpg)$": "jest-transform-stub"
+  },
+};
