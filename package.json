@@ -36,4 +36,17 @@
     "printWidth": 80,
     "semi": true,
     "singleQuote": true,
-    "trailingComm
+    "trailingComma": "es5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psychedelic/plug-connect.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@psychedelic"
+  },
+  "module": "dist/plug-connect.esm.js",
+  "size-limit": [
+    {
+      "path": "dist/plug-connect.cjs.production.min.js",
+     
