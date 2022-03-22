@@ -49,4 +49,18 @@
   "size-limit": [
     {
       "path": "dist/plug-connect.cjs.production.min.js",
-     
+      "limit": "11 KB"
+    },
+    {
+      "path": "dist/plug-connect.esm.js",
+      "limit": "11 KB"
+    }
+  ],
+  "dependencies": {
+    "@psychedelic/plug-inpage-provider": "2.4.1",
+    "@stitches/react": "^0.2.3",
+    "@walletconnect/browser-utils": "^1.7.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "
