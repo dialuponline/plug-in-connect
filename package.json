@@ -81,4 +81,16 @@
     "jest-transform-stub": "^2.0.0",
     "jss": "^10.7.1",
     "postcss": "^8.3.6",
-    "reac
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-is": "^17.0.2",
+    "react-jss": "^10.7.1",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-svg": "^2.0.0",
+    "rollup-plugin-url": "^3.0.1",
+    "size-limit": "^5.0.2",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
