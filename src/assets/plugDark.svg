@@ -13,4 +13,9 @@
 <linearGradient id="paint0_linear" x1="12.0068" y1="12.5274" x2="18.7021" y2="6.05116" gradientUnits="userSpaceOnUse">
 <stop stop-color="#46FF47"/>
 <stop offset="1" stop-color="#9CFF9D"/>
-</li
+</linearGradient>
+<linearGradient id="paint1_linear" x1="12.0067" y1="12.5275" x2="18.7019" y2="6.05118" gradientUnits="userSpaceOnUse">
+<stop stop-color="#46FF47"/>
+<stop offset="1" stop-color="#9CFF9D"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="12.0068" y1="12.5276" x2="18.7021" 
