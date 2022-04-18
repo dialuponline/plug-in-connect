@@ -24,4 +24,10 @@
 </linearGradient>
 <linearGradient id="paint3_linear" x1="10.4427" y1="13.8127" x2="13.7708" y2="9.54251" gradientUnits="userSpaceOnUse">
 <stop stop-color="#10D9ED"/>
-<stop offset="1" stop-color="#10D9ED
+<stop offset="1" stop-color="#10D9ED" stop-opacity="0.3"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="9.73293" y1="15.3703" x2="12.0141" y2="11.1224" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FA51D3"/>
+<stop offset="0.958774" stop-color="#FA51D3" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint5_l
