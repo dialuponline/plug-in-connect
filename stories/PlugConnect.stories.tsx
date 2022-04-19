@@ -4,4 +4,19 @@ import Button, { DefaultButtonText } from '../src';
 
 const meta: Meta = {
   title: 'Plug',
-  component:
+  component: Button,
+  parameters: {
+    controls: { expanded: true },
+  },
+};
+
+export default meta;
+
+const Template: Story<any> = args => <Button {...args} />;
+
+export const PlugConnect = Template.bind({});
+
+PlugConnect.args = {
+  dark: true,
+  title: DefaultButtonText,
+  whitelist: ['canister-1', 'canis
