@@ -17,4 +17,6 @@ describe('PlugConnect', () => {
         'canister-2'
       ]}
     />, div)
-    R
+    ReactDOM.unmountComponentAtNode(div);
+  });
+});
