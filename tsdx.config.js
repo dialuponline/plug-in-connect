@@ -11,4 +11,12 @@ module.exports = {
         svgoConfig: {
           plugins: [
             { removeViewBox: false },
-            { removeAttrs: { attrs: 'g:(stroke|fil
+            { removeAttrs: { attrs: 'g:(stroke|fill):((?!^none$).)*' } }
+          ],
+        },
+      }),
+      ...config.plugins,
+    ];
+    return config;
+  },
+};
